@@ -1,0 +1,5 @@
+/* index.css or a global CSS file */
+.swiper-button-next,
+.swiper-button-prev {
+  color: #412722; /* Change this to any color (Tailwind colors won't work here) */
+}
